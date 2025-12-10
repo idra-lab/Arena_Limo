@@ -3,4 +3,5 @@ This repository provides 3D CAD models for a modular and reconfigurable arena sy
 
 ---
 
-![Arena preview](images/arena_in_fusion)
+![Arena preview](images/arena_in_fusion.jpg)
+
